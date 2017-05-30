@@ -1,51 +1,51 @@
-name,styleUrl,longitude,latitude,altitude
-Amalurra,#icon-959-4186F0-nodesc,-3.21946630000002,43.235551,0
-Ananda Gaorii,#icon-959-4186F0-nodesc,11.5646159,55.823699,0
-Ängsbacka,#icon-959-4186F0-nodesc,13.69996,59.60085,0
-Arterra Bizimodu,#icon-959-4186F0-nodesc,-1.325935,42.715108,0
-Awakened Life Project,#icon-959-4186F0-nodesc,-8.28574419999995,40.8638533,0
-Buyukkonuk,#icon-959-4186F0-nodesc,33.919245,35.1149116,0
-Cente e Oito,#icon-959-4186F0-nodesc,-8.50620070000002,37.7770246,0
-Charlottendal,#icon-959-4186F0-nodesc,17.4936081,59.0867399,0
-Clos du Doubs / Jura Ecovillage,#icon-959-4186F0-nodesc,7.02813170000002,47.3215756,0
-Cloughjordan,#icon-959-4186F0-nodesc,-8.0383372,52.9429442,0
-Communauté de l'Arche,#icon-959-4186F0-nodesc,9.57494299999996,52.6433288,0
-Damanhur Federation,#icon-959-4186F0-nodesc,7.74780710000005,45.417626,0
-Dyssekilde,#icon-959-4186F0-nodesc,11.9421225999999,55.9851398,0
-Ecodorp Bergen,#icon-959-4186F0-nodesc,4.6939294,52.6521645,0
-Ecovillage Grishino,#icon-959-4186F0-nodesc,34.0853500000001,61.0763223,0
-Findhorn Foundation,#icon-959-4186F0-nodesc,-3.59208669999998,57.65199,0
-Galgahévíz / Galgafarm,#icon-959-4186F0-nodesc,19.5596312,47.6185843,0
-Gastwerke e.V.,#icon-959-4186F0-nodesc,9.67202999999995,51.32752,0
-Grundstein Neukirchen e.V.,#icon-959-4186F0-nodesc,9.74324999999999,54.80155,0
-Günesköy,#icon-959-4186F0-nodesc,32.8597419,39.9333635,0
-Hallingelille,#icon-959-4186F0-nodesc,11.81858,55.49462,0
-Hameau des Buis,#icon-959-4186F0-nodesc,4.22232299999996,44.4078649,0
-Hurdal Økolandsby,#icon-959-4186F0-nodesc,11.0522581,60.4114553,0
-Keuruu Ecovillage,#icon-959-4186F0-nodesc,24.7078591,62.2559845,0
-Kibbutz Gezer,#icon-959-4186F0-nodesc,34.92111,31.876349,0
-Kibbutz Lotan,#icon-959-4186F0-nodesc,35.0872958,29.9882818,0
-Krisna Völgy,#icon-959-4186F0-nodesc,17.7017453,46.5679612,0
-La Citta Della Luce,#icon-959-4186F0-nodesc,13.1233621,43.6624962,0
-La Comune Di Bagnaia,#icon-959-4186F0-nodesc,11.2114701,43.2943145,0
-La Smala Ecopol,#icon-959-4186F0-nodesc,6.72326720000001,46.4972677,0
-Lebensgarten Steyerberg e.V.,#icon-959-4186F0-nodesc,9.02277900000001,52.586285,0
-Lilleoru,#icon-959-4186F0-nodesc,25.0271196,59.2535092,0
-Los Portales,#icon-959-4186F0-nodesc,-5.94097099999999,37.7018287,0
-Munksøgård,#icon-959-4186F0-nodesc,12.132349,55.6590334,0
-New Findhorn Association,#icon-959-4186F0-nodesc,-3.59336269999994,57.6522987,0
-Schloss Glarisegg,#icon-959-4186F0-nodesc,8.95657949999998,47.6548787,0
-Schloss Tempelhof,#icon-959-4186F0-nodesc,10.2065832000001,49.126294,0
-Schloss Tonndorf,#icon-959-4186F0-nodesc,11.21138,50.89449,0
-Schweibenalp,#icon-959-4186F0-nodesc,8.02276600000005,46.729551,0
-Sennrüti,#icon-959-4186F0-nodesc,9.19270959999994,47.3760333,0
-Sieben Linden,#icon-959-4186F0-nodesc,11.14342,52.6894,0
-Sólheimar,#icon-959-4186F0-nodesc,-20.64463,64.0652078,0
-Suderbyn,#icon-959-4186F0-nodesc,18.2082025,57.5738009,0
-Svanholm Ecovillage,#icon-959-4186F0-nodesc,11.939208,55.783661,0
-Tamera,#icon-959-4186F0-nodesc,-8.51527320000002,37.7152885,0
-Torri Superiore,#icon-959-4186F0-nodesc,7.55110409999998,43.8403977,0
-Tribe of Likatien,#icon-959-4186F0-nodesc,10.6992712,47.5670718,0
-De Vlierhof,#icon-959-4186F0-nodesc,6.08122000000003,51.84667,0
-Zaježka,#icon-959-4186F0-nodesc,19.1598495000001,48.4194102,0
-ZEGG,#icon-959-4186F0-nodesc,12.5921999,52.1572032,0
+name,longitude,latitude,href
+Amalurra,-3.21946630000002,43.235551,
+Ananda Gaorii,11.5646159,55.823699,
+Ängsbacka,13.69996,59.60085,
+Arterra Bizimodu,-1.325935,42.715108,
+Awakened Life Project,-8.28574419999995,40.8638533,
+Buyukkonuk,33.919245,35.1149116,
+Cente e Oito,-8.50620070000002,37.7770246,
+Charlottendal,17.4936081,59.0867399,
+Clos du Doubs / Jura Ecovillage,7.02813170000002,47.3215756,
+Cloughjordan,-8.0383372,52.9429442,
+Communauté de l'Arche,9.57494299999996,52.6433288,
+Damanhur Federation,7.74780710000005,45.417626,
+Dyssekilde,11.9421225999999,55.9851398,
+Ecodorp Bergen,4.6939294,52.6521645,
+Ecovillage Grishino,34.0853500000001,61.0763223,
+Findhorn Foundation,-3.59208669999998,57.65199,
+Galgahévíz / Galgafarm,19.5596312,47.6185843,
+Gastwerke e.V.,9.67202999999995,51.32752,
+Grundstein Neukirchen e.V.,9.74324999999999,54.80155,
+Günesköy,32.8597419,39.9333635,
+Hallingelille,11.81858,55.49462,
+Hameau des Buis,4.22232299999996,44.4078649,
+Hurdal Økolandsby,11.0522581,60.4114553,
+Keuruu Ecovillage,24.7078591,62.2559845,
+Kibbutz Gezer,34.92111,31.876349,
+Kibbutz Lotan,35.0872958,29.9882818,
+Krisna Völgy,17.7017453,46.5679612,
+La Citta Della Luce,13.1233621,43.6624962,
+La Comune Di Bagnaia,11.2114701,43.2943145,
+La Smala Ecopol,6.72326720000001,46.4972677,
+Lebensgarten Steyerberg e.V.,9.02277900000001,52.586285,
+Lilleoru,25.0271196,59.2535092,
+Los Portales,-5.94097099999999,37.7018287,
+Munksøgård,12.132349,55.6590334,
+New Findhorn Association,-3.59336269999994,57.6522987,
+Schloss Glarisegg,8.95657949999998,47.6548787,
+Schloss Tempelhof,10.2065832000001,49.126294,
+Schloss Tonndorf,11.21138,50.89449,
+Schweibenalp,8.02276600000005,46.729551,
+Sennrüti,9.19270959999994,47.3760333,
+Sieben Linden,11.14342,52.6894,
+Sólheimar,-20.64463,64.0652078,
+Suderbyn,18.2082025,57.5738009,
+Svanholm Ecovillage,11.939208,55.783661,
+Tamera,-8.51527320000002,37.7152885,
+Torri Superiore,7.55110409999998,43.8403977,
+Tribe of Likatien,10.6992712,47.5670718,
+De Vlierhof,6.08122000000003,51.84667,
+Zaježka,19.1598495000001,48.4194102,
+ZEGG,12.5921999,52.1572032,
