@@ -1,38 +1,38 @@
-name,latitude,longitude
-adamama,31.47745,34.63008
-Andelssamfundet i Hjortshøj,56.25158,10.27105
-EarthYou,27.887376,-15.564297
-Aurora,45.764018,22.907604
-Cohousing Pomali ,48.31509,15.58398
-Comunita di Etica Viviente,42.95719,12.00571
-Die Gemeinschaftsstifter,51.65679,11.14903
-Ecodorp Boekel,51.60653,5.66544
-Ecodorp Brabant,52.13263,5.29126
-Gemeinschaft Sulzbrunn,47.67497,10.38269
+name,latitude,longitude,href
+adamama,31.47745,34.63008,http://www.adamama.org.il
+Andelssamfundet i Hjortshøj,56.25158,10.27105,http://www.andelssamfundet.dk
+EarthYou,27.887376,-15.564297,http://www.earthyou.org
+Aurora,45.764018,22.907604,http://www.aurora-community.org/
+Cohousing Pomali,48.31509,15.58398,http://www.pomali.at/
+Comunita di Etica Viviente,42.95719,12.00571,http://comunitadieticavivente.org
+Die Gemeinschaftsstifter,51.65679,11.14903,http://gemeinschaftsstifter.de
+Ecodorp Boekel,51.60653,5.66544,http://www.ecodorpboekel.nl
+Ecodorp Brabant,52.13263,5.29126,http://www.ecodorpbrabant.nl/
+Gemeinschaft Sulzbrunn,47.67497,10.38269,http://www.gemeinschaft-sulzbrunn.de/
 Gemeinschaftskeimling / Community Sprout,51.34124,12.39031
-General Memetics,49.12618,10.20645
-Gorsko Kosovo,43.12761,25.17059
-Kalikalos Centre for Holistic Education,39.4058,23.13209
-Korogonas Ark,36.649596,22.900068
+General Memetics,49.12618,10.20645,http://www.ncrtc.eu
+Gorsko Kosovo,43.12761,25.17059,http://gorskokosovo.com
+Kalikalos Centre for Holistic Education,39.4058,23.13209,http://www.kalikalos.com
+Korogonas Ark,36.649596,22.900068,http://www.thespiral.gr
 Lebensbogen,47.98341,7.83275
 Lehmhausen,52218,13.22497
-Mariahalom Biofalu,47.6255,18.7055
+Mariahalom Biofalu,47.6255,18.7055,http://www.biofalu.hu/
 Meltemi,39.0742,21.82431
-Nea Guinea - School of the Earth,38.07297,23.98426
-Nyim Ecovillage,47.16249,19.5033
-Permaldeia,37.11635,-7.88132
-Pohjois-Savon,62.87515,28.12226
-Puls der Erde,51.16569,10.45152
-Raum für Gewahrsein und Entwicklung e.V.,50.89967,7.01931
+Nea Guinea - School of the Earth,38.07297,23.98426,http://www.neaguinea.org
+Nyim Ecovillage,47.16249,19.5033,http://www.yeryuzudernegi.org
+Permaldeia,37.11635,-7.88132,permaldeia@gmail.com
+Pohjois-Savon,62.87515,28.12226,http://www.kivis.fi/fi/index.html
+Puls der Erde,51.16569,10.45152,http://www.lebensdorf.net/index.php?id=9
+Raum für Gewahrsein und Entwicklung e.V.,50.89967,7.01931,http://gaia-zentrum-rheinland.blogspot.de/
 Rhöner Gemeinschafts-Projekte e. V.,50.40051,10.20339
 RUPA,46.22813,15.26167
-Skala Ecovillage,40.64598,22.96385
-Smiltenei un Latvijai,57.40232,25.92175
-Sunny Hill,45.462763,13.811330
-TERIS,43.46983,2.75807
+Skala Ecovillage,40.64598,22.96385,http://www.skalaecovillage.com
+Smiltenei un Latvijai,57.40232,25.92175,http://smilteneiunlatvijai.blogspot.com/
+Sunny Hill,45.462763,13.811330,http://www.parkistra.com
+TERIS,43.46983,2.75807,http://www.teris.camp
 Terra de Luz,37.59723,-8.63668
-Terra Sylvestris,38.62151,20.93096
-The Kind Land,55.913271,40.622722
-Valdepielagos,40.760322,-3.465543
-YERYUZU EKOKOYU Earth Ecovillage,27.86176,-15.55916
-Zielonovo,52.926017,16.317768
+Terra Sylvestris,38.62151,20.93096,http://www.terrasylvestris.com
+The Kind Land,55.913271,40.622722,http://dobrayazemlya.ru
+Valdepielagos,40.760322,-3.465543,http://www.ecoaldeavaldepielagos.com
+YERYUZU EKOKOYU Earth Ecovillage,27.86176,-15.55916,http://www.yeryuzudernegi.org
+Zielonovo,52.926017,16.317768,https://www.facebook.com/zielonomi.zielonowo?fref=pb&hc_location=profile_browser
