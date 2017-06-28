@@ -1,37 +1,37 @@
-name,longitude,latitude,href
-adamama,34.63008,31.47745,http://www.adamama.org.il
-Andelssamfundet i Hjortshøj,10.27105,56.25158,http://www.andelssamfundet.dk
-EarthYou,-15.564297,27.887376,http://www.earthyou.org
-Aurora,22.907604,45.764018,http://www.aurora-community.org/
-Cohousing Pomali,15.58398,48.31509,http://www.pomali.at/
-Die Gemeinschaftsstifter,11.14903,51.65679,http://gemeinschaftsstifter.de
-Ecodorp Boekel,5.66544,51.60653,http://www.ecodorpboekel.nl
-Ecodorp Brabant,5.29126,52.13263,http://www.ecodorpbrabant.nl/
-Gemeinschaftskeimling / Community Sprout,12.39031,51.34124,
-General Memetics,10.20645,49.12618,http://www.ncrtc.eu
-Gorsko Kosovo,25.17059,43.12761,http://gorskokosovo.com
-Kalikalos Centre for Holistic Education,23.13209,39.4058,http://www.kalikalos.com
-Korogonas Ark,22.900068,36.649596,http://www.thespiral.gr
-Lebensbogen,7.83275,47.98341,
-Lehmhausen,13.22497,52218,
-Mariahalom Biofalu,18.7055,47.6255,http://www.biofalu.hu/
-Meltemi,21.82431,39.0742,
-Nea Guinea - School of the Earth,23.98426,38.07297,http://www.neaguinea.org
-Nyim Ecovillage,19.5033,47.16249,http://www.yeryuzudernegi.org
-Permaldeia,-7.88132,37.11635,permaldeia@gmail.com
-Pohjois-Savon,28.12226,62.87515,http://www.kivis.fi/index.html
-Puls der Erde,10.45152,51.16569,
-Raum für Gewahrsein und Entwicklung e.V.,7.01931,50.89967,http://gaia-zentrum-rheinland.blogspot.de/
-Rhöner Gemeinschafts-Projekte e. V.,10.20339,50.40051,
-RUPA,15.26167,46.22813,
-Skala Ecovillage,22.96385,40.64598,http://www.skalaecovillage.com
-Smiltenei un Latvijai,25.92175,57.40232,http://smilteneiunlatvijai.blogspot.com/
-Sunny Hill,13.81133,45.462763,http://www.parkistra.com
-TERIS,2.75807,43.46983,http://www.teris.camp
-Terra de Luz,-8.63668,37.59723,
-Terra Sylvestris,20.93096,38.62151,http://www.terrasylvestris.com
-The Kind Land,40.622722,55.913271,http://dobrayazemlya.ru
-Valdepielagos,-3.465543,40.760322,http://www.ecoaldeavaldepielagos.org/
+name,latitude,longitude,href
+adamama,31.47745,34.63008,http://www.adamama.org.il
+Andelssamfundet i Hjortshøj,56.25158,10.27105,http://www.andelssamfundet.dk
+EarthYou,27.887376,-15.564297,http://www.earthyou.org
+Aurora,45.764018,22.907604,http://www.aurora-community.org/
+Cohousing Pomali,48.31509,15.58398,http://www.pomali.at/
+Die Gemeinschaftsstifter,51.65679,11.14903,http://gemeinschaftsstifter.de
+Ecodorp Boekel,51.60653,5.66544,http://www.ecodorpboekel.nl
+Ecodorp Brabant,52.13263,5.29126,http://www.ecodorpbrabant.nl/
+Gemeinschaftskeimling / Community Sprout,51.34124,12.39031,
+General Memetics,49.12618,10.20645,http://www.ncrtc.eu
+Gorsko Kosovo,43.12761,25.17059,http://gorskokosovo.com
+Kalikalos Centre for Holistic Education,39.4058,23.13209,http://www.kalikalos.com
+Korogonas Ark,36.649596,22.900068,http://www.thespiral.gr
+Lebensbogen,47.98341,7.83275,
+Lehmhausen,52218,13.22497,
+Mariahalom Biofalu,47.6255,18.7055,http://www.biofalu.hu/
+Meltemi,39.0742,21.82431,
+Nea Guinea - School of the Earth,38.07297,23.98426,http://www.neaguinea.org
+Nyim Ecovillage,47.16249,19.5033,http://www.yeryuzudernegi.org
+Permaldeia,37.11635,-7.88132,permaldeia@gmail.com
+Pohjois-Savon,62.87515,28.12226,http://www.kivis.fi/index.html
+Puls der Erde,51.16569,10.45152,
+Raum für Gewahrsein und Entwicklung e.V.,50.89967,7.01931,http://gaia-zentrum-rheinland.blogspot.de/
+Rhöner Gemeinschafts-Projekte e. V.,50.40051,10.20339,
+RUPA,46.22813,15.26167,
+Skala Ecovillage,40.64598,22.96385,http://www.skalaecovillage.com
+Smiltenei un Latvijai,57.40232,25.92175,http://smilteneiunlatvijai.blogspot.com/
+Sunny Hill,45.462763,13.81133,http://www.parkistra.com
+TERIS,43.46983,2.75807,http://www.teris.camp
+Terra de Luz,37.59723,-8.63668,
+Terra Sylvestris,38.62151,20.93096,http://www.terrasylvestris.com
+The Kind Land,55.913271,40.622722,http://dobrayazemlya.ru
+Valdepielagos,40.760322,-3.465543,http://www.ecoaldeavaldepielagos.org/
 YERYUZU EKOKOYU Earth Ecovillage,41.065762,30.019908,http://www.yeryuzudernegi.org
-Zielonovo,16.317768,52.926017,https://www.facebook.com/zielonomi.zielonowo?fref=pb&hc_location=profile_browser
-De Weegbree,4.583342,51.049886,http://www.deweegbree.be
+Zielonovo,52.926017,16.317768,https://www.facebook.com/zielonomi.zielonowo?fref=pb&hc_location=profile_browser
+De Weegbree,51.049886,4.583342,http://www.deweegbree.be
