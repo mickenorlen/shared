@@ -1,54 +1,54 @@
-name,latitude,longitude,href
-Amalurra,43.235551,-3.21946630000002,http://www.amalurra.com/
-Ananda Gaorii,55.823699,11.5646159,http://www.anandagaorii.dk
-Ängsbacka,59.60085,13.69996,http://www.angsbacka.se
-Arterra Bizimodu,42.715108,-1.325935,http://arterrabizimodu.org
-Awakened Life Project,40.8638533,-8.28574419999995,http://www.awakenedlifeproject.org
-Buyukkonuk,35.1149116,33.919245,http://www.whatson-northcyprus.com/interest/iskele/buyukkonuk.htm
-Cente e Oito,37.7770246,-8.50620070000002,
-Charlottendal,59.0867399,17.4936081,http://www.charlottendal.se
-Clos du Doubs / Jura Ecovillage,47.3215756,7.02813170000002,http://www.ecodoubs.ch/
-Cloughjordan,52.9429442,-8.0383372,http://www.thevillage.ie
-Communauté de l'Arche,52.6433288,9.57494299999996,http://arche-nonviolence.eu
-Damanhur Federation,45.417626,7.74780710000005,http://www.damanhur.org
-Dyssekilde,55.9851398,11.9421225999999,http://www.dyssekilde.dk/
-Ecodorp Bergen,52.6521645,4.6939294,http://www.ecodorpbergen.nl/
-Ecovillage Grishino,61.0763223,34.0853500000001,http://eco-grishino.ru/
-Findhorn Foundation,57.65199,-3.59208669999998,http://www.ecovillagefindhorn.com
-Galgahévíz / Galgafarm,47.6185843,19.5596312,http://www.gaiaalapitvany.hu/
-Gastwerke e.V.,51.32752,9.67202999999995,http://www.gastwerke.de
-Grundstein Neukirchen e.V.,54.80155,9.74324999999999,http://www.grundstein-neukirchen.de/
-Günesköy,39.9333635,32.8597419,
-Hallingelille,55.49462,11.81858,http://www.hallingelille.dk
-Hameau des Buis,44.4078649,4.22232299999996,http://www.hameaudesbuis.com
-Hurdal Økolandsby,60.4114553,11.0522581,http://hurdalecovillage.no/wordpress/
-Keuruu Ecovillage,62.2559845,24.7078591,
-Kibbutz Gezer,31.876349,34.92111,http://www.gezer.org.il
-Kibbutz Lotan,29.9882818,35.0872958,http://www.kibbutzlotan.com/
-Krisna Völgy,46.5679612,17.7017453,http://krisnavolgy.hu/
-La Citta Della Luce,43.6624962,13.1233621,http://www.lacittadellaluce.org/it
-La Comune Di Bagnaia,43.2943145,11.2114701,
-La Smala Ecopol,46.4972677,6.72326720000001,
-Lebensgarten Steyerberg e.V.,52.586285,9.02277900000001,
-Lilleoru,59.2535092,25.0271196,http://www.lilleoru.ee
-Los Portales,37.7018287,-5.94097099999999,http://www.losportales.net
-Munksøgård,55.6590334,12.132349,http://www.munksoegaard.dk
-New Findhorn Association,57.6522987,-3.59336269999994,
-Schloss Glarisegg,47.6548787,8.95657949999998,http://www.schloss-glarisegg.ch
-Schloss Tempelhof,49.126294,10.2065832000001,http://www.earthship-tempelhof.de
-Schloss Tonndorf,50.89449,11.21138,http://www.schloss-tonndorf.de
-Schweibenalp,46.729551,8.02276600000005,http://www.schweibenalp.ch/index.php/de/
-Sennrüti,47.3760333,9.19270959999994,http://www.oekodorf.ch
-Sieben Linden,52.6894,11.14342,http://siebenlinden.org/en/start-2/
-Sólheimar,64.0652078,-20.64463,http://www.solheimar.is
-Suderbyn,57.5738009,18.2082025,http://www.suderbyn.se/
-Svanholm Ecovillage,55.783661,11.939208,http://www.svanholm.dk/
-Tamera,37.7152885,-8.51527320000002,http://www.tamera.org
-Torri Superiore,43.8403977,7.55110409999998,http://torri-superiore.org
-Tribe of Likatien,47.5670718,10.6992712,http://www.likatien.de
-De Vlierhof,51.84667,6.08122000000003,http://www.vlierhof.org
-Zaježka,48.4194102,19.1598495000001,http://www.zajezka.sk
-ZEGG,52.1572032,12.5921999,https://www.zegg.de/en/
-Lebensbogen,51.365191,9.344399,http://www.lebensbogen.org
+name,longitude,latitude,href
+Amalurra,-3.21946630000002,43.235551,http://www.amalurra.com/
+Ananda Gaorii,11.5646159,55.823699,http://www.anandagaorii.dk
+Ängsbacka,13.69996,59.60085,http://www.angsbacka.se
+Arterra Bizimodu,-1.325935,42.715108,http://arterrabizimodu.org
+Awakened Life Project,-8.28574419999995,40.8638533,http://www.awakenedlifeproject.org
+Buyukkonuk,33.919245,35.1149116,http://www.whatson-northcyprus.com/interest/iskele/buyukkonuk.htm
+Cente e Oito,-8.50620070000002,37.7770246,
+Charlottendal,17.4936081,59.0867399,http://www.charlottendal.se
+Clos du Doubs / Jura Ecovillage,7.02813170000002,47.3215756,http://www.ecodoubs.ch/
+Cloughjordan,-8.0383372,52.9429442,http://www.thevillage.ie
+Communauté de l'Arche,9.57494299999996,52.6433288,http://arche-nonviolence.eu
+Damanhur Federation,7.74780710000005,45.417626,http://www.damanhur.org
+Dyssekilde,11.9421225999999,55.9851398,http://www.dyssekilde.dk/
+Ecodorp Bergen,4.6939294,52.6521645,http://www.ecodorpbergen.nl/
+Ecovillage Grishino,34.0853500000001,61.0763223,http://eco-grishino.ru/
+Findhorn Foundation,-3.59208669999998,57.65199,http://www.ecovillagefindhorn.com
+Galgahévíz / Galgafarm,19.5596312,47.6185843,http://www.gaiaalapitvany.hu/
+Gastwerke e.V.,9.67202999999995,51.32752,http://www.gastwerke.de
+Grundstein Neukirchen e.V.,9.74324999999999,54.80155,http://www.grundstein-neukirchen.de/
+Günesköy,32.8597419,39.9333635,
+Hallingelille,11.81858,55.49462,http://www.hallingelille.dk
+Hameau des Buis,4.22232299999996,44.4078649,http://www.hameaudesbuis.com
+Hurdal Økolandsby,11.0522581,60.4114553,http://hurdalecovillage.no/wordpress/
+Keuruu Ecovillage,24.7078591,62.2559845,
+Kibbutz Gezer,34.92111,31.876349,http://www.gezer.org.il
+Kibbutz Lotan,35.0872958,29.9882818,http://www.kibbutzlotan.com/
+Krisna Völgy,17.7017453,46.5679612,http://krisnavolgy.hu/
+La Citta Della Luce,13.1233621,43.6624962,http://www.lacittadellaluce.org/it
+La Comune Di Bagnaia,11.2114701,43.2943145,
+La Smala Ecopol,6.72326720000001,46.4972677,
+Lebensgarten Steyerberg e.V.,9.02277900000001,52.586285,
+Lilleoru,25.0271196,59.2535092,http://www.lilleoru.ee
+Los Portales,-5.94097099999999,37.7018287,http://www.losportales.net
+Munksøgård,12.132349,55.6590334,http://www.munksoegaard.dk
+New Findhorn Association,-3.59336269999994,57.6522987,
+Schloss Glarisegg,8.95657949999998,47.6548787,http://www.schloss-glarisegg.ch
+Schloss Tempelhof,10.2065832000001,49.126294,http://www.earthship-tempelhof.de
+Schloss Tonndorf,11.21138,50.89449,http://www.schloss-tonndorf.de
+Schweibenalp,8.02276600000005,46.729551,http://www.schweibenalp.ch/index.php/de/
+Sennrüti,9.19270959999994,47.3760333,http://www.oekodorf.ch
+Sieben Linden,11.14342,52.6894,http://siebenlinden.org/en/start-2/
+Sólheimar,-20.64463,64.0652078,http://www.solheimar.is
+Suderbyn,18.2082025,57.5738009,http://www.suderbyn.se/
+Svanholm Ecovillage,11.939208,55.783661,http://www.svanholm.dk/
+Tamera,-8.51527320000002,37.7152885,http://www.tamera.org
+Torri Superiore,7.55110409999998,43.8403977,http://torri-superiore.org
+Tribe of Likatien,10.6992712,47.5670718,http://www.likatien.de
+De Vlierhof,6.08122000000003,51.84667,http://www.vlierhof.org
+Zaježka,19.1598495000001,48.4194102,http://www.zajezka.sk
+ZEGG,12.5921999,52.1572032,https://www.zegg.de/en/
+Lebensbogen,9.344399,51.365191,http://www.lebensbogen.org
 Comunita di Etica Viviente,12.00571,42.95719,http://comunitadieticavivente.org
 Gemeinschaft Sulzbrunn,10.38269,47.67497,http://www.gemeinschaft-sulzbrunn.de/
