@@ -9,7 +9,7 @@
  * @author Mikael Norlén
  * @class ClassContainer
  */
-export default class ClassContainer {
+class ClassContainer {
     constructor(params) {
         this.setProps(params);
     }
